@@ -1,4 +1,4 @@
-# a2.py
+# Finding Waldo
 # Name: Jacky Ly
 
 # Sets the path and loads the pictures for use in the program
