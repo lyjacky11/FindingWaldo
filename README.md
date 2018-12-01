@@ -1,5 +1,5 @@
-# FindingWaldo
-Program written in Jython (Python using Java Platform)
+# Finding Waldo
+Program is written in Jython - Python for the Java Platform.
 
 ## Output:
 ![Output](result.png)
