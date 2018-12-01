@@ -1,4 +1,4 @@
-# a2bonus.py
+# Finding Waldo - Version 2
 # Name: Jacky Ly
 
 # Sets the path and initializes assets for use in the program
